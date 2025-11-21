@@ -1,6 +1,0 @@
-com/empresa/financiera/infrastructure/service/MockParameterService.class
-com/empresa/financiera/infrastructure/repository/AuditRepository.class
-com/empresa/financiera/domain/model/AuditLog.class
-com/empresa/financiera/application/service/TaskExecutionService.class
-com/empresa/financiera/application/DynamicSchedulerOrchestrator.class
-com/empresa/financiera/domain/model/JobParameters.class

@@ -1,6 +1,0 @@
-/home/andcruz/Documents/Compartamos/PoC/ms-poc-hybrid-strat-scheduler-reactive/src/main/java/com/empresa/financiera/domain/model/AuditLog.java
-/home/andcruz/Documents/Compartamos/PoC/ms-poc-hybrid-strat-scheduler-reactive/src/main/java/com/empresa/financiera/infrastructure/service/MockParameterService.java
-/home/andcruz/Documents/Compartamos/PoC/ms-poc-hybrid-strat-scheduler-reactive/src/main/java/com/empresa/financiera/application/service/TaskExecutionService.java
-/home/andcruz/Documents/Compartamos/PoC/ms-poc-hybrid-strat-scheduler-reactive/src/main/java/com/empresa/financiera/domain/model/JobParameters.java
-/home/andcruz/Documents/Compartamos/PoC/ms-poc-hybrid-strat-scheduler-reactive/src/main/java/com/empresa/financiera/infrastructure/repository/AuditRepository.java
-/home/andcruz/Documents/Compartamos/PoC/ms-poc-hybrid-strat-scheduler-reactive/src/main/java/com/empresa/financiera/application/DynamicSchedulerOrchestrator.java
